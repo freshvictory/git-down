@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+if [ 5 -ne $(date +%u) ]; then
+    echo "git down: usage: gotta git down on Friday"
+else
+    echo "$(<friday.txt)"
+fi

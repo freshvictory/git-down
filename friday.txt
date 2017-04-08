@@ -1,0 +1,67 @@
+     -yysssssssssssssyys.       .syssssssssssssyy+.           -syssssssyys.        .oyysssssssssssyys-               .+yysssyys.            .syyssssyys+yysssssyy+                                      
+     /yyo:..://////-:sy+        :yys/..://///:-+yys-          /yyo:../+yy+         -syy/-.://///:./sys/              /yy+-:.oyy-            :yys:.-+syooyy+-.:oyy:                                      
+    .oyyy+ /yyyyyys+oyy: ..     +yyys.-yyyyyyy/ syy:          oyyyo :yyys:         /yyyy..syyyyyy/ /yy+             /syo-ss.+yy/            +yyys--syy+syy/-oyyys.                                      
+     -oyy: oyy::yyyyyys.        ./yy+ /yy+-oyy:.sys.          .+yy/ +yy/..         .:yyo :yyo-+yy/ +yy:            :syo-sys-:yyo            ../yyo./ys+ys::sys:-.                                       
+     .sys.-syyo+ooo-...          +yy: oyyssyyo.:yy+            oyy-.sys.            /yy/ +yy:.oyy-.sys.           -syo-oyyy/.sys.             .oyy/.oyys-/yyo-                                          
+     -yyo :osoossyo.            .sys..++++++:-+sys-           .syo -syo            .oyy-.sys.-sys :yy+           -sys-oyysy+.oyy-              -sys--so-+yy+.                                           
+     /yy/ ////+oys/             -yyo :+++++.:syy:.            :yy+ /yy:            -syo.:yy+ /yy+ /yy:          .sys-/oooooo.+yy/               /yyo.--oys/.                                            
+    .oyy..syyyyyss-             +yy/ oyssyy/.syy-            .oyy-.oys-            /yy/ +yy/.oyy-.sys.         .sys:/+++++++-:yyo               .sys-.oys:                                              
+   .:syo :yyo:....            .-sys..syo-sys./yyo-.         .-sys -syo-.         .-oyy-.sys::sys.-yyo       .--oys:/yyooosyy/-sys--.           .-sys.-yyo-.                                             
+  .ssyy/ +yyso.               oyyyo :yysoyyy/.syyso.       .osyy+ /yyys.         +yyys.-yyyyyys/.+yy/       :ssyy//syys.+syy+.oyyss.          .ssyy+ +yyys.                                             
+  :yyo/. :oyy+               -sys/- -oyysyy+:.-+yy+        :yyo/. :+syo         .syy+: -//////-/sys+.       +yy+:./oyy+.sys/: :oyy+           :yyo/- :+yyo                                              
+  +yyssssssss:               /yyssssssyssyysssssyy:        +yyssssssyy:         -yyysssssssssssys+-        .syysssssyy::yyysssssyy:           +yyssssssyy:                                              
+  +++++++++++.               /o++++++o+++ssoossooo//----:--ooooooooooo:---------/ooooss++++oooo/.          -++++++++++.:o++++o++++.           +++++++++++.                                              
+                                       -+++yyso///osssyyyooo+++++++++++++++++++++++++oho.                                                                                                               
+                                     ./+/+yy++////+++++o+///////++++++++++++++++++++++ooy+                                                                                                              
+                                    :+++sys+++++ossysooooo+/////+++++++++++++++++++++++++ss.                                                                                                            
+                                   /o//sh++oosyyyy+oyosyssss+///+++++++++++++++++++++++++++s-                                                                                                           
+                                 ./////mossossyyss+/yy//oooshy+/+++++++++oo+++++++++++++++/+s.                                                                                                          
+                                .+:::+sd+syy//+oo+o+/+y:.--:+yhyss++++++++yo/+++++++++++++//os                                                                                                          
+                                /:::oshohso:-//...::/-:o+-.-.-/sysh++++o+++yo++++++++++++++//os                                   .+ssssssssyyyso-                                                      
+                               /::++yhysmo-.+-......-:-./o--....+yosso/+++/+yo+++++++++++++///so                                 .yho/:yddddo//sds                                                      
+                              /:-/shyshd+............-:/+:o/.....:ssso///+//sy++++++++++++////+y-                                 -.   ydddh.   ..  -//++/:.  .://++++/:.      .//-    ./++++- //+/:    
+                             -/-/+hyodhs/.............../s/o+......:oyyo+///+so+++++++++++++++++y-                                    /dddd+     .oyhs/::sdho -hdds--/yhh+    :hdds     :hddy..yds:     
+                            .o-/+yh+smy/.................-o+/o:......-/oyso+//+/+++++++++++++++/ys.                                   ydddh-    -hdh:    .hdd:-ddd:   :ddh.  /hsdhh-     :hdh+hh/       
+                            /::s+moohmh....................:o//+........-soy+///+y+++++++++++++++o/                                  -hddds     sdds     /ddh.oddy    +ddy  ohs/hddo      /ddds.        
+                           -+-o+shysyhh....:://:-...........-++:+/.......-yoy+//+h//++++++++++++++o-                                .odddd/     +ddy.  ./hdy:-hdd/ .-ohho..oy://oddh-     /ddh.         
+                           //:y+d+hsyys-/shhhyhhdhhss+-.......:oo++-......oy+h+/+h/+++/////++++///s+                               :syhyhys-     :syyssss+:  +yyyyssso/- +shs  -syyys:   /syhy:         
+                          .+o+ysyoyssh+-::/::::/+ossyhd:......../o+yssosssydssyooh/+++/////+++////oy:                               .......         ...        .....     ....   . ...     ....          
+                          :+oyohoy+ysd/:+ydhyyyyyyso+//+o........-syso/sysoshsyooo+++++////s++////+y+                                                                                                   
+                          +/o+shs++doos+hsyhhohsdhh+os/-do.......:.-+ysyyysss+yso++o+o+////yo//////os.                                                                                                  
+                         .+///dy++ods//ohsosyodshhy/+hh:hd/....:+-.:hy+hyyddhssh+++o+s++///yo//////+y:                                                                                                  
+                         ///++my++shs:s+-..:yo+//:--:/s/oh/....-../oo+:dyymy+hho+++++s+++//so//////+y+                                                                                                  
+                        .o://+dy++yyss+....-+::::-...-yos---.......:/o+osyysssd++oo++y+o+//oo///////yo                                                                                                  
+                        :+++//hs++hyys............-//++:- -/.........-///:/oo+hyo+o++y/os///+///////yy.                                                                                                 
+                        o+o+o+hs++hys/:..............-   -/-.............--...+hs+o+++/+y///////////ys-                .....   .....   .                                                                
+                       .ssoos+ho++hds:::...........-o/.  +- ...--/............-yyoo/////o////+//////yy/               +hdddy++hhhddddhhhh:                     .+++++/ .:++++/+:                        
+                       :ohoyo+h+++hms/.......-....-y+.-../.-...-.+:............ysso////+////+++++++/oho               .mNNm-/s/-:NNNm:-:y/                      oddds-+hhds/+shy                        
+                       +ohsyyyy+++ydyo/.........:/-oo/o/.....--.-o- :..........ysys+//++/////+//+++/+ho.              +NNNs     +NNNo                           yddh- ydddy+-..-                        
+                       ohhyshs++++hdyso:......:+:...-:oso+++::/o/-...:.........ysys++///////////+++//hy-              hNNm-     dNNm-                          -ddds  .+yhddhy/                         
+                      .omoysys++++hdsyso:...-//+ooo-...-:::::........./........hoys+////////////+++//sh+             :NNNy     :NNNy                           sddd: .   -+hddd/                        
+                      :od+syys++++dds+oy:..-o-ssssso+//++/:/:.........-.......-d+sy////+++////+++++//odo.           :hNNNo    :hNNNs                          -dddh.:hs:-.:yddh:                        
+                      :oo+yoyo++++hhh+:y+-..o:ds/yyss++oosssoooo/+:..........:/h/sy+/////+///+s++++///ys:          .++++++.  .++++++.                        /sssss/-sssyyyso/-                         
+                      +/+h++y+++++shhy//y/-.-o+/odyhso:...-..:/+yyo+.......-:-/o+ysy+////++//+s++++///oho                                                                                               
+                      ++hs++h+++++sdshs/sy-..oy-/o:+/++//++////:yhmy.......-..++sd+h+////+s//+o++++///+do-                                                                                              
+                     ::+h/o+h+++++ohosdo/yo...so:---.......--...:dmo........../ohy+h+////+y+//++++/////sy/                                                                                              
+                    -/+h+//oy+++++hydsdh//h/..:ss-:+-......::.-/hy+...........oyd+sy//////so///++++////+d+-                                                                                             
+                   -++od///oy/++++ohhssd//oy:..:N/-://:/----:+ys/+..........-+sd++ys//////+o///++++/////ds:                                                                                             
+                  .+s+ydo++oo+++++oyho+yy::oy:..yd/-.:/oooooso+:o/..........:sho++ys///++++++++++++/////hs/                                                                                             
+                  :/oshsh/oo/+++++/sy+++hs::oy-.-sys//o/s+oo+syo-.........-/odo+soyo////+++++++++++/////hs/                                                                                             
+                  .osho+h/s+/+++///os++++h+//d/....-://ooo+oo/-.....:/+/++o+oo++++o+++++++o++++++++/////hs/                                                                                             
+                  -syy/ys/+//+++///++++++oyo/yy:..................-::+++ooooooossyysooooooso+++++++/////hs/                                                                                             
+                  -oy+sy//+++++++/++++++++os++ds:................-o-.-+oooo+osho+ss++++oosys++++++//////hs/                                                                                             
+                  +os+ys/+/+++++++++/+yosssyy+ohh/-.............-ooos+o++ooooho++so+/++/+o+++++/////////ys/      ..             ......                                  ..         .   .                
+                 .o+ss++////++++++++/+dy:/+++syhhdho/----....-/sho+/:/+oo+ooos+/+o++++++//+++++++ooo++++so+    /+++++++o+.::////+++++++/:-.           -/////        -///++/++oo ./++/+++o-              
+                 :/sy+//////+/++++++/+ds/+::-..://+osssso//////:-...-++ooooooo++o+oos+++/+ooooooysso+oo+oos.   .:++++o+. :/+/++os/:--:/++++/-        -+++++o-        ./+++++o:   :+++s+-                
+                 +/hs////////+++++++++ms:o::-......................./++ooooosssssssys/+++/++ooosy/+//+++ooh/   ./++++s.   /++++s-     ./++++o-      :+++++++/          /+++++/ .:++os-                  
+             -::/syy+///////++++++++++ms///-.......................-++oooo+sy+++ho+++/++//++oooh+////++oshdo.  -+/++o+   -+++++s       :++++o/    .:+o++++++o.          /+++++:/++s+                    
+          .oshhhys++////////+y++++++/+ds//o-.......................:++oooooh+/++h++++//+//+ooooy/++++syys+ss/  /++++s-   :++++s/       /++++s-   ./+s/ /++++o/           /++++++oo-                     
+    .o+.  ys++yds///////////oh/+++++/+ho//:.......................-/+ooooosy+++oh++++////+ooooho+oo++so///+yo -+++++o   ./++++s       -++++oo   -/+++::/+++++o           ./++++s/                       
+   . :md.od+++hhy///////////sy/+++++//sh:::-......................:+oooooohs/++sy/+++////+oo+oh//+ooooo+//+ys::++++o:   :++++o+      :++++s+   :+os:+o+++++++o-          -++++oo                        
+    + hNosh+++hy+///////////oy///////+hs/:--....................--++++ooooyo+++ys/+++///+ooooss///+o+o+o++/+o//++++s.  -/++++o-  .-:/+++oo:  .:+os      :++++++          /++++s-                        
+...-s-oNyho++os++///////////os///////h+s:---.................../+++++oooooooy++y+/os//++ooooooos///+ooo+ooo++++++++++.-++++++++++++ooo+:.  :/+++++:   :/+++++++++.    .:/+++++++:                       
+-/:-/+/mss+/+ss+++/////////++++/+///+ds/-:.....................-/////+hoodyho++y++os+/osoooooss+////+oooooo+hy+:::::-   .---::/:::-..      .::::::.   .:::::::::-      -::::::::                        
+.....s-mo++//ss+///////////+++++++//+hy/-............................:os/hdo+++so+so++++////////////+++/////yy+--..                                                                                     
+.....+:dy+///yyo///////////++++/////+hd/.............................-oy+hh++++oyoyo++/++/+/////////////////oho-.o:...                                                                                  
+.....:+hh+++/ys+//////////+++++////ohdNo..............................o/ohho++++hohoo++++///////////////////+do/..---:...                                                                               
+    ../so::::o/::::::::::::::::::::/syso-...................    ......:-+:soo+/:s/o//::::::::::::::::::::::::s//...........                                                                             

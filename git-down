@@ -2,6 +2,8 @@
 
 if [ 5 -ne $(date +%u) ]; then
     echo "git down: usage: gotta git down on Friday"
+elif [ $1 = "video" ]; then
+    "$(dirname $0)/mpv.exe" --quiet -vo=tct 'https://www.youtube.com/watch?v=kfVsfOSbJY0'
 else
     echo "$(<$(dirname $0)/friday.txt)"
 fi

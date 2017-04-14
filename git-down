@@ -3,5 +3,5 @@
 if [ 5 -ne $(date +%u) ]; then
     echo "git down: usage: gotta git down on Friday"
 else
-    echo "$(<friday.txt)"
+    echo "$(<$(dirname $0)/friday.txt)"
 fi

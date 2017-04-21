@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+git config --global alias.down "!bash -c '$(pwd)/git-down \"\$1\"' -"
